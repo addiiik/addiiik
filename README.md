@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Adrian Kukla, a passionate software engineer focused on building applications that make life easier. </br>
+I'm Adrian, a passionate software engineer focused on building applications that make life easier. </br>
 I love exploring new technologies and challenging myself with interesting projects.
 
 # 💻 Tech Stack  
