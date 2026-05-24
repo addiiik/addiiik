@@ -1,7 +1,9 @@
 # 👋 Hi there
 
 I'm Adrian, a passionate software engineer. </br>
-I like to challange myself with interesting and ambitious projects.
+I like to challenge myself with interesting and ambitious projects.
+
+Check out my website: **[adriankukla.com](https://adriankukla.com)**
 
 # 💻 Tech Stack  
 
