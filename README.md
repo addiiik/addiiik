@@ -1,7 +1,7 @@
 # 👋 Hi there
 
-I'm Adrian, a passionate software engineer focused on building applications that make life easier. </br>
-I love exploring new technologies and challenging myself with interesting projects.
+I'm Adrian, a passionate software engineer. </br>
+I like to challange myself with interesting and ambitious projects.
 
 # 💻 Tech Stack  
 
